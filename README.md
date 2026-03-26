@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-alexutan /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-alexutan"/> </p>
 
 <p align="center">
   <img src="assets/cbonsai3-transparent.svg" alt="cbonsai animation" width="700" />
