@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cbonsai3-transparent.svg" alt="cbonsai animation" width="700" />
+  <img src="assets/cbonsai3-transparent.svg" alt="cbonsai animation" width="600" />
 </p>
 
 <p align="center">
