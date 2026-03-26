@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <sub>animation generated using <a href="https://github.com/mhzawadi/homebrew-cbonsai">cbonsai</a></sub>
+  <sub>animation created using <a href="https://github.com/mhzawadi/homebrew-cbonsai">cbonsai</a></sub>
 </p>
